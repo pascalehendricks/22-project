@@ -1,0 +1,20 @@
+body, html
+
+body {background-color: lightgray;}
+  h1  {color: darkgreen;
+    border: 10px;
+    border-style: solid;
+  }
+
+  a {color:darkgreen}
+
+li {color: rgb(150, 187, 93);}
+p {color:rgb(92, 70, 70);}
+
+img {border-style: solid;
+border-color: white;
+border-width: 10px;
+}
+
+
+footer {color: rgb(101, 101, 201);}
